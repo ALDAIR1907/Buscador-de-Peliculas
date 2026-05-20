@@ -4,7 +4,7 @@
 
 # 🎬 CineScope - Buscador de Películas
 
-**🌐 Demo en vivo: [https://buscador-de-peliculas-taupe.vercel.app]([https://buscador-de-peliculas-taupe.vercel.app](https://buscador-de-peliculas-taupe.vercel.app/))**
+**🌐 Demo en vivo: [https://buscador-de-peliculas-taupe.vercel.app](https://buscador-de-peliculas-taupe.vercel.app/)**
 
 Aplicación React que busca películas usando la API de OMDb...
 
