@@ -2,8 +2,11 @@
 
 ![Demo](https://via.placeholder.com/800x400?text=Captura+de+pantalla)
 
-## 🌐 Demo en vivo
-[Ver aplicación](https://TU-URL-VERCEL.vercel.app)
+# 🎬 CineScope - Buscador de Películas
+
+**🌐 Demo en vivo: [https://buscador-de-peliculas-taupe.vercel.app](https://buscador-de-peliculas-taupe.vercel.app)**
+
+Aplicación React que busca películas usando la API de OMDb...
 
 ## 📋 Descripción
 Aplicación web que permite buscar películas usando la API de OMDb. Muestra resultados con pósters, años y un modal con detalles completos.
