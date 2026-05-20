@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import axios from 'axios';
 
 const API_KEY = process.env.REACT_APP_OMDB_API_KEY || '3cdb7477'; 
-const API_URL = 'http://www.omdbapi.com/';
+const API_URL = 'https://www.omdbapi.com/';
 
 function App() {
   const [busqueda, setBusqueda] = useState('');
